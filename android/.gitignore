@@ -1,0 +1,15 @@
+# The Gradle wrapper (gradlew, gradlew.bat, gradle-wrapper.jar) IS committed so a
+# fresh clone builds without any extra setup.
+/.gradle
+/.kotlin
+/build/
+/captures/
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Never share signing keys publicly.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks

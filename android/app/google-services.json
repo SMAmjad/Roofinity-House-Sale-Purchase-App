@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433334302677",
+    "project_id": "roofinity-9735d",
+    "storage_bucket": "roofinity-9735d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433334302677:android:5c5783a7e6ce5d7f82af5c",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3DopCPdpDhfHJqnHhUXqFs3ga2EPV1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

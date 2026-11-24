@@ -1,0 +1,391 @@
+
+[
+  {
+    "question": "What is the first step in buying a home?",
+    "answer": "The first step is usually getting pre-approved for a mortgage. This tells you how much you can afford and shows sellers that you're a serious buyer."
+  },
+  {
+    "question": "How much do I need for a down payment?",
+    "answer": "Down payment requirements vary, but a typical range is 3.5% to 20% of the home's purchase price. Some loan programs may offer lower down payments."
+  },
+  {
+    "question": "What is a fixed-rate mortgage?",
+    "answer": "A fixed-rate mortgage has an interest rate that remains the same for the entire life of the loan. This means your monthly principal and interest payments will not change."
+  },
+  {
+    "question": "What is an adjustable-rate mortgage (ARM)?",
+    "answer": "An adjustable-rate mortgage (ARM) has an interest rate that can change periodically. It usually starts with a lower initial rate, which can then go up or down based on market conditions."
+  },
+  {
+    "question": "What are closing costs?",
+    "answer": "Closing costs are fees paid at the closing of a real estate transaction. They can include loan origination fees, appraisal fees, title insurance, and more. They typically range from 2% to 5% of the purchase price."
+  },
+  {
+    "question": "What is a home inspection?",
+    "answer": "A home inspection is a non-invasive examination of the condition of a home, often in connection with the sale of that home. It's highly recommended for buyers to understand the property's condition."
+  },
+  {
+    "question": "Should I get a home inspection?",
+    "answer": "Absolutely. A home inspection can uncover potentially serious issues with a property that you may not see on your own. It's a crucial step in protecting your investment."
+  },
+  {
+    "question": "What is an appraisal?",
+    "answer": "An appraisal is an unbiased professional opinion of a home's value. Lenders require an appraisal to ensure the property is worth the amount of money they are lending."
+  },
+  {
+    "question": "What is the difference between being pre-qualified and pre-approved?",
+    "answer": "Pre-qualification is a quick estimate of how much you might be able to borrow. Pre-approval is a more formal process where the lender verifies your financial information and commits to a specific loan amount."
+  },
+  {
+    "question": "How long does the home buying process take?",
+    "answer": "The process can take anywhere from a few weeks to several months. On average, it takes about 30-45 days from the time you go under contract to closing day."
+  },
+  {
+    "question": "What is earnest money?",
+    "answer": "Earnest money is a deposit made to a seller that represents a buyer's good faith to buy a home. The money is held in an escrow account and is typically applied to the down payment or closing costs."
+  },
+  {
+    "question": "What is title insurance?",
+    "answer": "Title insurance protects the buyer and lender from any defects or problems with a property's title. It ensures that the seller has the legal right to sell the property."
+  },
+  {
+    "question": "What is a seller's market?",
+    "answer": "A seller's market occurs when there are more buyers looking for homes than there are homes available for sale. This often leads to higher prices and bidding wars."
+  },
+  {
+    "question": "What is a buyer's market?",
+    "answer": "A buyer's market occurs when there are more homes for sale than there are buyers. In this market, buyers have more negotiating power and prices may be lower."
+  },
+  {
+    "question": "What is a contingency clause?",
+    "answer": "A contingency clause is a condition in a real estate contract that must be met for the contract to become binding. Common contingencies include financing, home inspection, and appraisal."
+  },
+  {
+    "question": "How can I improve my credit score?",
+    "answer": "You can improve your credit score by paying your bills on time, keeping credit card balances low, and avoiding opening too many new accounts in a short period."
+  },
+  {
+    "question": "What is private mortgage insurance (PMI)?",
+    "answer": "Private Mortgage Insurance (PMI) is a type of insurance required by lenders if you make a down payment of less than 20% on a conventional loan. It protects the lender if you stop making payments."
+  },
+  {
+    "question": "What should I do if my offer is rejected?",
+    "answer": "If your offer is rejected, you can submit a new, higher offer, or you can move on to other properties. Your real estate agent can help you decide on the best strategy."
+  },
+  {
+    "question": "Can I back out of buying a home?",
+    "answer": "You can back out of a home purchase, but there may be financial consequences depending on the terms of your contract and the contingencies you have in place. It's best to consult with your agent."
+  },
+  {
+    "question": "What is equity?",
+    "answer": "Equity is the difference between the market value of your home and the amount you owe on your mortgage. It's the portion of your property that you truly own."
+  },
+  {
+    "question": "How do I find a good real estate agent?",
+    "answer": "You can find a good agent by asking for referrals from friends and family, checking online reviews, and interviewing several candidates to find one you connect with."
+  },
+  {
+    "question": "What is a dual agent?",
+    "answer": "A dual agent is a real estate agent who represents both the buyer and the seller in the same transaction. This can create a conflict of interest, and it's illegal in some states."
+  },
+  {
+    "question": "What is a 'For Sale By Owner' (FSBO)?",
+    "answer": "A 'For Sale By Owner' (FSBO) is a property that is being sold by the owner without the representation of a real estate agent."
+  },
+  {
+    "question": "How are property taxes calculated?",
+    "answer": "Property taxes are typically calculated based on the assessed value of the property multiplied by the local tax rate. The assessed value is determined by the local government."
+  },
+  {
+    "question": "What is a homeowner's association (HOA)?",
+    "answer": "A homeowner's association (HOA) is an organization in a subdivision, planned community, or condominium that makes and enforces rules for the properties within its jurisdiction."
+  },
+  {
+    "question": "What are HOA fees?",
+    "answer": "HOA fees are monthly or annual charges paid to the homeowner's association. These fees are used to maintain common areas and amenities, such as pools, landscaping, and community buildings."
+  },
+  {
+    "question": "What is a short sale?",
+    "answer": "A short sale is when a homeowner in financial distress sells their property for less than the amount due on the mortgage. The bank or lender must approve the sale."
+  },
+  {
+    "question": "What is a foreclosure?",
+    "answer": "A foreclosure is a legal process in which a lender attempts to recover the balance of a loan from a borrower who has stopped making payments by forcing the sale of the asset used as the collateral for the loan."
+  },
+  {
+    "question": "What is a good debt-to-income (DTI) ratio?",
+    "answer": "A good debt-to-income (DTI) ratio is typically below 43%. Lenders use this ratio to assess your ability to manage monthly payments and repay debts."
+  },
+  {
+    "question": "What is a final walk-through?",
+    "answer": "A final walk-through is an opportunity for a buyer to inspect the property one last time before closing to ensure it's in the same condition it was in when they agreed to buy it."
+  },
+  {
+    "question": "What is a settlement statement or closing disclosure?",
+    "answer": "A Closing Disclosure is a five-page form that provides final details about the mortgage loan you have selected. It includes the loan terms, your projected monthly payments, and how much you will pay in fees."
+  },
+  {
+    "question": "What is the role of an escrow officer?",
+    "answer": "An escrow officer is a neutral third party who facilitates the closing of a real estate transaction. They ensure that all conditions of the sale are met before any money or property changes hands."
+  },
+  {
+    "question": "What is a home warranty?",
+    "answer": "A home warranty is a service contract that covers the repair or replacement of major home systems and appliances that break down due to normal wear and tear."
+  },
+  {
+    "question": "What is a real estate bubble?",
+    "answer": "A real estate bubble is a run-up in housing prices fueled by demand, speculation, and exuberant spending to the point of collapse. Bubbles usually start with an increase in demand in the face of limited supply."
+  },
+  {
+    "question": "What is amortization?",
+    "answer": "Amortization is the process of spreading out a loan into a series of fixed payments. With a mortgage, each payment consists of both principal and interest."
+  },
+  {
+    "question": "What is a jumbo loan?",
+    "answer": "A jumbo loan is a type of financing that exceeds the limits set by the Federal Housing Finance Agency (FHFA). They are used to purchase more expensive homes."
+  },
+  {
+    "question": "What is a bridge loan?",
+    "answer": "A bridge loan is a short-term loan used until a person or company secures permanent financing or removes an existing obligation. It allows a homebuyer to purchase a new home before selling their current one."
+  },
+  {
+    "question": "What is a contingency offer?",
+    "answer": "A contingency offer is an offer on a home that is dependent on a certain condition being met, such as the sale of the buyer's current home."
+  },
+  {
+    "question": "What is a title search?",
+    "answer": "A title search is an examination of public records to determine and confirm a property's legal ownership, and find out what claims or liens are on the property."
+  },
+  {
+    "question": "What is a lien?",
+    "answer": "A lien is a legal claim against a property that must be paid off when the property is sold. Common liens include unpaid taxes or a contractor's lien for unpaid work."
+  },
+  {
+    "question": "What is a 'point' in mortgage terms?",
+    "answer": "A mortgage point is a fee paid to a lender to lower the interest rate on a loan. One point is equal to 1% of the loan amount."
+  },
+  {
+    "question": "What is a conventional loan?",
+    "answer": "A conventional loan is a mortgage that is not insured or guaranteed by the federal government, such as FHA or VA loans."
+  },
+  {
+    "question": "What is an FHA loan?",
+    "answer": "An FHA loan is a mortgage insured by the Federal Housing Administration. They are popular with first-time homebuyers because they allow for a lower down payment."
+  },
+  {
+    "question": "What is a VA loan?",
+    "answer": "A VA loan is a mortgage guaranteed by the U.S. Department of Veterans Affairs. They are available to eligible veterans, service members, and surviving spouses, and often require no down payment."
+  },
+  {
+    "question": "What is 'cash to close'?",
+    "answer": "Cash to close is the total amount of money you need to bring to your closing appointment. It includes your down payment and all closing costs."
+  },
+  {
+    "question": "What is an escalation clause?",
+    "answer": "An escalation clause is a provision in a real estate offer that states your offer will automatically increase by a certain amount over a higher competing offer, up to a maximum price."
+  },
+  {
+    "question": "What is the 28/36 rule?",
+    "answer": "The 28/36 rule is a guideline used by lenders to determine how much house you can afford. It states that your housing expenses should not exceed 28% of your gross monthly income, and your total debt should not exceed 36%."
+  },
+  {
+    "question": "What is a 'comp'?",
+    "answer": "A 'comp,' short for comparable sale, is a recently sold home in your area that is similar to the home you are interested in. Comps are used to determine a home's market value."
+  },
+  {
+    "question": "What does 'pending' mean in a real estate listing?",
+    "answer": "A 'pending' status means that the seller has accepted an offer from a buyer, but the sale has not yet closed. It is under contract."
+  },
+  {
+    "question": "What does 'contingent' mean in a real estate listing?",
+    "answer": "A 'contingent' status means that the seller has accepted an offer, but certain conditions (contingencies) must be met before the sale can be finalized."
+  },
+  {
+    "question": "What is a right of first refusal?",
+    "answer": "A right of first refusal is a contractual right that gives its holder the option to enter into a business transaction with the owner of something, before the owner is entitled to enter into that transaction with a third party."
+  },
+  {
+    "question": "What is a bidding war?",
+    "answer": "A bidding war occurs when two or more buyers are competing for the same property, driving up the price. This is common in a seller's market."
+  },
+  {
+    "question": "How important is location when buying a home?",
+    "answer": "Location is one of the most important factors in real estate. A good location can significantly impact a home's value, your daily commute, school districts, and overall quality of life."
+  },
+  {
+    "question": "What is a real estate broker?",
+    "answer": "A real estate broker is a licensed professional who has taken education beyond the agent level and passed a broker's license exam. They can work independently or hire other agents to work for them."
+  },
+  {
+    "question": "What is a 'pocket listing'?",
+    "answer": "A pocket listing is a property that a real estate agent has a contract to sell but has not yet been listed on the Multiple Listing Service (MLS). The agent markets the property privately."
+  },
+  {
+    "question": "What is a deed?",
+    "answer": "A deed is a legal document that transfers ownership of a property from one person to another. It must be signed and recorded to be valid."
+  },
+  {
+    "question": "What is a quiet title action?",
+    "answer": "A quiet title action is a lawsuit filed to establish ownership of a property. It is used to clear up any disputes or claims on the title."
+  },
+  {
+    "question": "What is an easement?",
+    "answer": "An easement is a legal right to use another person's land for a specific purpose. For example, a utility company may have an easement to run power lines across your property."
+  },
+  {
+    "question": "What is 'zoning'?",
+    "answer": "Zoning refers to municipal or local laws or regulations that govern how real property can be used in certain geographic areas. For example, an area may be zoned for residential, commercial, or industrial use."
+  },
+  {
+    "question": "What is a variance?",
+    "answer": "A variance is a request to deviate from current zoning requirements. If granted, it permits the owner to use the land in a way that is ordinarily not permitted by the zoning ordinance."
+  },
+  {
+    "question": "What is a 'grandfather clause' in real estate?",
+    "answer": "A grandfather clause allows a property to continue its existing use even if it doesn't comply with new zoning laws. The use is 'grandfathered in'."
+  },
+  {
+    "question": "What is 'curb appeal'?",
+    "answer": "Curb appeal is the attractiveness of a property and its surroundings when viewed from the street. It's the first impression a home makes."
+  },
+  {
+    "question": "What is a fixer-upper?",
+    "answer": "A fixer-upper is a property that needs repairs or renovations. These homes are often sold at a lower price but require additional investment to make them livable."
+  },
+  {
+    "question": "What is a 'turnkey' property?",
+    "answer": "A turnkey property is a home that is ready for immediate occupancy. It has been recently renovated and requires no major repairs or improvements."
+  },
+  {
+    "question": "What is an 'as-is' sale?",
+    "answer": "An 'as-is' sale means the seller is not willing to make any repairs to the property. The buyer accepts the property in its current condition."
+  },
+  {
+    "question": "What is a real estate agent's commission?",
+    "answer": "A real estate agent's commission is the fee they charge for their services, typically a percentage of the home's sale price. The commission is usually paid by the seller."
+  },
+  {
+    "question": "How can I negotiate a better price on a home?",
+    "answer": "You can negotiate a better price by researching comparable sales, getting a home inspection to identify any issues, and being flexible on your closing date."
+  },
+  {
+    "question": "What is a counteroffer?",
+    "answer": "A counteroffer is a response to an initial offer. It indicates a willingness to negotiate but proposes different terms."
+  },
+  {
+    "question": "What is an open house?",
+    "answer": "An open house is a scheduled time when a home for sale is open for viewing by potential buyers without an appointment."
+  },
+  {
+    "question": "What is 'staging' a home?",
+    "answer": "Staging a home involves preparing it for sale by decorating and arranging furniture to make it look as appealing as possible to potential buyers."
+  },
+  {
+    "question": "What is a 'starter home'?",
+    "answer": "A starter home is typically a small, affordable house that is ideal for first-time homebuyers."
+  },
+  {
+    "question": "What is a 'forever home'?",
+    "answer": "A forever home is a property that a homeowner plans to live in for the rest of their life. It typically meets all their long-term needs."
+  },
+  {
+    "question": "What is a property survey?",
+    "answer": "A property survey is a legal document that shows the boundaries of a piece of property. It's used to identify any encroachments or boundary line disputes."
+  },
+  {
+    "question": "What is an encroachment?",
+    "answer": "An encroachment occurs when a neighbor's property intrudes onto your land. This could be a fence, a tree, or part of a building."
+  },
+  {
+    "question": "What is a plat map?",
+    "answer": "A plat map is a diagram that shows how a piece of land is divided into lots. It's often used in new housing developments."
+  },
+  {
+    "question": "What is a 'smart home'?",
+    "answer": "A smart home is a home equipped with lighting, heating, and electronic devices that can be controlled remotely by phone or computer."
+  },
+  {
+    "question": "What is 'house hacking'?",
+    "answer": "House hacking is a strategy where you rent out portions of your primary residence to generate income that is used to offset the cost of your mortgage and other expenses."
+  },
+  {
+    "question": "What is a duplex?",
+    "answer": "A duplex is a residential building divided into two separate living units. It's a popular option for house hacking."
+  },
+  {
+    "question": "What is a townhouse?",
+    "answer": "A townhouse is a single-family home that shares one or more walls with other independently-owned units. They are often multiple stories."
+  },
+  {
+    "question": "What is a condominium (condo)?",
+    "answer": "A condominium is a private residence within a larger building or community. Condo owners own their individual unit and share ownership of common areas."
+  },
+  {
+    "question": "What is a co-op?",
+    "answer": "In a co-op, you don't own the actual unit. Instead, you own shares in a corporation that owns the building, and you have a lease to live in a specific unit."
+  },
+  {
+    "question": "What is a 'seller concession'?",
+    "answer": "A seller concession is when the seller agrees to pay some of the buyer's closing costs. This can make a home more affordable for a buyer with limited cash."
+  },
+  {
+    "question": "What is a gift letter for a mortgage?",
+    "answer": "A gift letter is a document that states you have received money as a gift to be used for your down payment, and you are not required to pay it back."
+  },
+  {
+    "question": "How does student loan debt affect getting a mortgage?",
+    "answer": "Student loan debt is included in your debt-to-income (DTI) ratio, which can affect the amount of mortgage you qualify for. Lenders will consider your monthly student loan payment."
+  },
+  {
+    "question": "Can I buy a house with bad credit?",
+    "answer": "It's more difficult to buy a house with bad credit, but it's not impossible. You may need a larger down payment or a higher interest rate. Government-backed loans like FHA loans can be an option."
+  },
+  {
+    "question": "What is the 'seasoning' of funds?",
+    "answer": "Seasoning refers to the length of time money has been in a bank account. Lenders often require funds for a down payment to be 'seasoned' for at least 60 days to ensure they were not borrowed."
+  },
+  {
+    "question": "What is a rent-back agreement?",
+    "answer": "A rent-back agreement allows the seller to continue living in the home for a short period after closing, essentially renting the home back from the new owner."
+  },
+  {
+    "question": "What is a 'highest and best' offer?",
+    "answer": "A 'highest and best' offer is a request from a seller for all interested buyers to submit their best possible offer by a certain deadline. This is common in a competitive market."
+  },
+  {
+    "question": "What is an iBuyer?",
+    "answer": "An iBuyer is a company that uses technology to make an instant offer on your home. They offer a faster, more convenient way to sell, but often at a lower price than you might get on the open market."
+  },
+  {
+    "question": "What is a contingency period?",
+    "answer": "A contingency period is a specific timeframe in which a buyer must complete certain tasks, such as getting a home inspection or securing financing. If the tasks are not completed, the buyer can back out of the contract."
+  },
+  {
+    "question": "What is a 'walk-away' price?",
+    "answer": "A 'walk-away' price is the absolute maximum price a buyer is willing to pay for a property. It's the point at which they will walk away from the deal if the seller doesn't accept."
+  },
+  {
+    "question": "What is 'seller financing'?",
+    "answer": "Seller financing is when the seller of a property provides the financing for the purchase, acting as the lender. This can be an option for buyers who can't qualify for a traditional mortgage."
+  },
+  {
+    "question": "What is a 'due diligence' period?",
+    "answer": "Due diligence is a period of time given to a buyer to fully examine a property before closing. This can include home inspections, appraisals, and reviewing any relevant documents."
+  },
+  {
+    "question": "What is 'proration' in real estate?",
+    "answer": "Proration is the process of dividing certain property expenses, like property taxes and HOA fees, between the buyer and seller at closing. It ensures that each party only pays for the time they owned the property."
+  },
+  {
+    "question": "What is a 'spec home'?",
+    "answer": "A spec home is a house built by a builder on 'speculation,' meaning they don't have a specific buyer lined up. They are built with features the builder believes will appeal to a broad range of buyers."
+  },
+  {
+    "question": "What is a 'custom home'?",
+    "answer": "A custom home is a one-of-a-kind house that is designed and built for a specific client. The client has input on every aspect of the design."
+  },
+  {
+    "question": "What is a 'move-in ready' home?",
+    "answer": "A 'move-in ready' home is a property that is ready for immediate occupancy. It doesn't require any major repairs or renovations."
+  }
+]

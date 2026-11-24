@@ -1,0 +1,33 @@
+# All paths are relative to the ml/ folder.
+paths:
+  repo_root: .
+  # Dataset splits created by scripts/prep_dataset.py (not committed to git)
+  train_dir: data/splits/train
+  val_dir: data/splits/val
+  test_dir: data/splits/test
+
+  # Best Keras checkpoint (committed, so the model can be re-exported or fine-tuned)
+  checkpoint_dir: models/checkpoints/efficientnet_b0
+  # labels.txt + threshold.json
+  export_dir: exports
+  # Where the Flutter app loads the model from (assets/false_property_detector.tflite)
+  mobile_model_dir: ../assets
+
+train:
+  image_size: [224, 224]
+  batch_size: 32
+  epochs: 12                 # stage 1: frozen EfficientNetB0 backbone
+  base_learning_rate: 1.0e-4
+  fine_tune_epochs: 6        # stage 2: unfreeze the top of the backbone
+  fine_tune_at: 200          # layers below this index stay frozen
+  early_stopping_patience: 3
+  label_smoothing: 0.0
+
+  # 2-class classification: 0 = real, 1 = fake
+  class_names: ["real", "fake"]
+
+threshold:
+  # Pick the fake-probability threshold with the best precision
+  # while still catching at least `min_recall` of fake images.
+  metric: precision_at_recall
+  min_recall: 0.90
