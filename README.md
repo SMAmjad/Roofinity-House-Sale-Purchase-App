@@ -15,7 +15,7 @@ A Flutter + Firebase app for buyers, agents and admins, with a custom-trained Ef
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Download the APK](https://github.com/SMAmjad/Roofinity-Fake-Image-Detector-Flutter/releases/latest) · [How the AI works](#how-the-ai-check-works) · [Run it locally](#getting-started) · [Train the model](ml/README.md)
+[Download the APK](https://github.com/SMAmjad/Roofinity-House-Sale-Purchase-App/releases/latest) · [How the AI works](#how-the-ai-check-works) · [Run it locally](#getting-started) · [Train the model](ml/README.md)
 
 </div>
 
@@ -185,8 +185,8 @@ stateDiagram-v2
 ### Run
 
 ```bash
-git clone https://github.com/SMAmjad/Roofinity-Fake-Image-Detector-Flutter.git
-cd Roofinity-Fake-Image-Detector-Flutter
+git clone https://github.com/SMAmjad/Roofinity-House-Sale-Purchase-App.git
+cd Roofinity-House-Sale-Purchase-App
 flutter pub get
 flutter run
 ```
